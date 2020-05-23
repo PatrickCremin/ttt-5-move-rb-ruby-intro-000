@@ -1,4 +1,4 @@
-require Fil.relative ("../lib/move.rb")
+require File.relative ("../lib/move.rb")
 
 describe '#input_to_index' do
 
