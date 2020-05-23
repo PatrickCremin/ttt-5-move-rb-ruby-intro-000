@@ -1,4 +1,4 @@
-require Fil.relative ("../lib/move.rb")
+require File.relative ("../lib/move.rb")
 
 describe './bin/move executing a CLI Application' do
   it 'defines a board variable' do
