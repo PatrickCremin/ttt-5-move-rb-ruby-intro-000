@@ -1,4 +1,4 @@
-require Fil.relative ("../lib/move.rb")
+require File.relative ("../lib/move.rb")
 
 describe './lib/move.rb' do
   it 'defines a move method' do
